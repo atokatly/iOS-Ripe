@@ -1,0 +1,6 @@
+framework module Pods_RipeTests {
+  umbrella header "Pods-RipeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

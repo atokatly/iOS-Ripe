@@ -6,6 +6,7 @@ target 'Ripe' do
   use_frameworks!
 
   # Pods for Ripe
+  pod ’Stormpath’, ‘~> 2.0’
 
   target 'RipeTests' do
     inherit! :search_paths
